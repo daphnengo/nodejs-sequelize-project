@@ -1,2 +1,2 @@
-# nodejs-sql-project
-Create a project using NodeJS, ExpressJS with SQL database management system
+# nodejs-mysql-project
+Create a project using NodeJS, ExpressJS with MySQL and Sequelize
